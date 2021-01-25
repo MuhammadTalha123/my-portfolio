@@ -32,6 +32,7 @@ const Footer = () => {
           <i className="fa fa-address-card" aria-hidden="true">UP WORK</i>
         </a>
       </div>
+      <p className="last__paragraph">Copyright © 2021 Muhammad Talha Design Limited</p>
     </div>
   );
 };
