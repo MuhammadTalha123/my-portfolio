@@ -19,16 +19,16 @@ const Footer = () => {
         </p>
       </div>
       <div className="icons__links">
-        <a href="https://github.com/MuhammadTalha123">
+        <a href="https://github.com/MuhammadTalha123" target="_blank">
           <i className="fa fa-github" aria-hidden="true">GITHUB</i>
         </a>
-        <a href="https://www.linkedin.com/in/muhammad-talha-6a3156201/">
+        <a href="https://www.linkedin.com/in/muhammad-talha-6a3156201/" target="_blank">
           <i className="fa fa-linkedin-square" aria-hidden="true">LINKEDIN</i>
         </a>
-        <a href="https://www.fiverr.com/talha_203">
+        <a href="https://www.fiverr.com/talha_203" target="_blank">
           <i className="fa fa-address-book" aria-hidden="true">FIVERR</i>
         </a>
-        <a href="https://www.upwork.com/freelancers/~0145a5b53c8c9b9fd1">
+        <a href="https://www.upwork.com/freelancers/~0145a5b53c8c9b9fd1" target="_blank">
           <i className="fa fa-address-card" aria-hidden="true">UP WORK</i>
         </a>
       </div>

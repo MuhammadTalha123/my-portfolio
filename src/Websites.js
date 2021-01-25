@@ -8,7 +8,7 @@ function Websites() {
       <div className="first_website">
         <div className="git__link">
           <h2>New Year Countdown</h2>
-          <a href="https://github.com/MuhammadTalha123/Nea-Year-Countdown">
+          <a href="https://github.com/MuhammadTalha123/Nea-Year-Countdown" target="_blank">
             View Project On GitHub
           </a>
         </div>
@@ -22,7 +22,7 @@ function Websites() {
       <div className="first_website">
         <div className="git__link">
           <h2>Rlaxer</h2>
-          <a href="https://github.com/MuhammadTalha123/Rlaxer">
+          <a href="https://github.com/MuhammadTalha123/Rlaxer" target="_blank">
             View Project On GitHub
           </a>
         </div>
@@ -36,7 +36,7 @@ function Websites() {
       <div className="first_website">
         <div className="git__link">
           <h2>Speach-text-reader</h2>
-          <a href="https://github.com/MuhammadTalha123/Speach-text-reader">
+          <a href="https://github.com/MuhammadTalha123/Speach-text-reader" target="_blank">
             View Project On GitHub
           </a>
         </div>
@@ -50,7 +50,7 @@ function Websites() {
       <div className="first_website">
         <div className="git__link">
           <h2>Pak Express</h2>
-          <a href="https://github.com/MuhammadTalha123/react-ecommrace">
+          <a href="https://github.com/MuhammadTalha123/react-ecommrace" target="_blank">
             View Project On GitHub
           </a>
         </div>
@@ -64,7 +64,7 @@ function Websites() {
       <div className="first_website">
         <div className="git__link">
           <h2>Travel App</h2>
-          <a href="https://github.com/MuhammadTalha123/travel-app-with">
+          <a href="https://github.com/MuhammadTalha123/travel-app-with" target="_blank">
             View Project On GitHub
           </a>
         </div>
@@ -78,7 +78,7 @@ function Websites() {
       <div className="first_website">
         <div className="git__link">
           <h2>Covid 19 Tracker</h2>
-          <a href="https://github.com/MuhammadTalha123/covid-19-tracker">
+          <a href="https://github.com/MuhammadTalha123/covid-19-tracker" target="_blank">
             View Project On GitHub
           </a>
         </div>
