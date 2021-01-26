@@ -29,7 +29,7 @@ const Footer = () => {
           <i className="fa fa-address-book" aria-hidden="true">FIVERR</i>
         </a>
         <a href="https://www.upwork.com/freelancers/~0145a5b53c8c9b9fd1" target="_blank">
-          <i className="fa fa-address-card" aria-hidden="true">UP WORK</i>
+          <i className="fa fa-address-card" aria-hidden="true">UPWORK</i>
         </a>
       </div>
       <p className="last__paragraph">Copyright © 2021 Muhammad Talha Design Limited</p>
