@@ -7,6 +7,54 @@ body {
   font-family: 'Titillium Web', sans-serif;
 }
 
-.App {
+.header {
   text-align: center;
+  justify-content: center;
 }
+
+.header h1 {
+  font-size: 40px;
+}
+
+.des_paragraph {
+  font-size: 30px;
+}
+
+.header_images {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header_img_1 {
+  background-color: #f2f5fa;
+  width: 300px;
+  padding: 15px;
+}
+
+@media screen and (max-width:750px) {
+  .header h1 {
+    font-size: 30px;
+  }
+  
+  .des_paragraph {
+    font-size: 20px;
+  }
+
+  .header_img_1 {
+    width: 200px;
+  }
+
+  img {
+    width: 100px;
+  }
+
+  .img_heading {
+    font-size: 20px;
+  }
+
+  .img_paragraph {
+    font-size: 15px;
+  }
+}
+
+
