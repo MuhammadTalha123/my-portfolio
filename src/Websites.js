@@ -75,20 +75,6 @@ function Websites() {
           ></iframe>
         </div>
       </div>
-      <div className="first_website">
-        <div className="git__link">
-          <h2>Covid 19 Tracker</h2>
-          <a href="https://github.com/MuhammadTalha123/covid-19-tracker" target="_blank">
-            View Project On GitHub
-          </a>
-        </div>
-        <div className="porject">
-          <iframe
-            src="https://arcane-cove-16623.herokuapp.com/"
-            frameBorder="0"
-          ></iframe>
-        </div>
-      </div>
     </div>
   );
 }
