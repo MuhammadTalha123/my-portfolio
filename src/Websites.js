@@ -8,9 +8,11 @@ function Websites() {
       <div className="first_website">
         <div className="git__link">
           <h2>New Year Countdown</h2>
+          <button>
           <a href="https://github.com/MuhammadTalha123/Nea-Year-Countdown" target="_blank">
             View Project On GitHub
           </a>
+          </button>
         </div>
         <div className="porject">
           <iframe
@@ -22,9 +24,11 @@ function Websites() {
       <div className="first_website">
         <div className="git__link">
           <h2>Rlaxer</h2>
+          <button>
           <a href="https://github.com/MuhammadTalha123/Rlaxer" target="_blank">
             View Project On GitHub
           </a>
+          </button>
         </div>
         <div className="porject">
           <iframe
@@ -36,9 +40,11 @@ function Websites() {
       <div className="first_website">
         <div className="git__link">
           <h2>Speach-text-reader</h2>
+          <button>
           <a href="https://github.com/MuhammadTalha123/Speach-text-reader" target="_blank">
             View Project On GitHub
           </a>
+          </button>
         </div>
         <div className="porject">
           <iframe
@@ -50,9 +56,11 @@ function Websites() {
       <div className="first_website">
         <div className="git__link">
           <h2>Pak Express</h2>
+          <button>
           <a href="https://github.com/MuhammadTalha123/react-ecommrace" target="_blank">
             View Project On GitHub
           </a>
+          </button>
         </div>
         <div className="porject">
           <iframe
@@ -64,9 +72,11 @@ function Websites() {
       <div className="first_website">
         <div className="git__link">
           <h2>Travel App</h2>
+          <button>
           <a href="https://github.com/MuhammadTalha123/travel-app-with" target="_blank">
             View Project On GitHub
           </a>
+          </button>
         </div>
         <div className="porject">
           <iframe
