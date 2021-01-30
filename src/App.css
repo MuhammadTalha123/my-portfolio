@@ -18,18 +18,32 @@ body {
 
 .des_paragraph {
   font-size: 30px;
+  margin: 0 150px;
 }
 
 .header_images {
   display: flex;
   justify-content: space-evenly;
+  margin: 10px 0;
 }
 
 .header_img_1 {
   background-color: #f2f5fa;
   width: 300px;
   padding: 15px;
+  cursor: pointer;
+  transition: .4s;
 }
+
+.header_img_1:hover {
+  transform: scale(1.1);
+}
+
+@media screen and (max-width:1000px) {
+  .des_paragraph {
+    margin: 0 100px;
+  }
+}  
 
 @media screen and (max-width:750px) {
   .header h1 {
@@ -38,6 +52,7 @@ body {
   
   .des_paragraph {
     font-size: 20px;
+    margin: 0 30px;
   }
 
   .header_img_1 {
@@ -57,4 +72,55 @@ body {
   }
 }
 
+@media screen and (max-width:500px) {
+  .header h1 {
+    font-size: 20px;
+  }
+  
+  .des_paragraph {
+    font-size: 17px;
+  }
+
+  .header_img_1 {
+    width: 150px;
+  }
+
+  img {
+    width: 70px;
+  }
+
+  .img_heading {
+    font-size: 16px;
+  }
+
+  .img_paragraph {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width:400px) {
+  .header h1 {
+    font-size: 17px;
+  }
+  
+  .des_paragraph {
+    font-size: 13px;
+  }
+
+  .header_img_1 {
+    width: 110px;
+  }
+
+  img {
+    width: 50px;
+  }
+
+  .img_heading {
+    font-size: 14px;
+  }
+
+  .img_paragraph {
+    font-size: 13px;
+  }
+}
 

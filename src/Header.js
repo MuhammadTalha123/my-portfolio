@@ -6,7 +6,7 @@ function Header() {
     <div className="header">
       <h1>Successful Front-end Development</h1>
       <p className="des_paragraph">
-        Hi. I’m Talha, a freelance Front-end Developer with 2 years <br />
+        Hi. I’m Talha, a freelance Front-end Developer with 2 years
         commercial experience creating successful websites.
       </p>
       <div className="header_images">
