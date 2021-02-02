@@ -24,7 +24,7 @@ body {
 .header_images {
   display: flex;
   justify-content: space-evenly;
-  margin: 10px 0;
+  margin: 25px 0;
 }
 
 .header_img_1 {
@@ -36,6 +36,48 @@ body {
 }
 
 .header_img_1:hover {
+  transform: scale(1.1);
+}
+
+.feature_work {
+  text-align: center;
+  font-size: 40px;
+}
+
+.first_website {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.porject iframe {
+  width: 900px;
+  height: 600px;
+}
+
+.git__link {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.git__link h2 {
+  font-size: 30px;
+}
+
+.git__link button a {
+  text-decoration: none;
+  color: black;
+}
+
+.git__link button {
+  padding: 10px;
+  border-radius: 5px;
+  color: black;
+  background-color: #f2f5fa;
+}
+
+.git__link button:hover {
+  cursor: pointer;
   transform: scale(1.1);
 }
 

@@ -4,10 +4,10 @@ import "./App.css";
 function Websites() {
   return (
     <div className="Websites">
-      <h1>Featured Work</h1>
+      <h1 className="feature_work">Featured Work</h1>
       <div className="first_website">
         <div className="git__link">
-          <h2>New Year Countdown</h2>
+          <h2>New-Year-Countdown</h2>
           <button>
           <a href="https://github.com/MuhammadTalha123/Nea-Year-Countdown" target="_blank">
             View Project On GitHub
@@ -55,7 +55,7 @@ function Websites() {
       </div>
       <div className="first_website">
         <div className="git__link">
-          <h2>Pak Express</h2>
+          <h2>Pak-Express</h2>
           <button>
           <a href="https://github.com/MuhammadTalha123/react-ecommrace" target="_blank">
             View Project On GitHub
@@ -71,7 +71,7 @@ function Websites() {
       </div>
       <div className="first_website">
         <div className="git__link">
-          <h2>Travel App</h2>
+          <h2>Travel-App</h2>
           <button>
           <a href="https://github.com/MuhammadTalha123/travel-app-with" target="_blank">
             View Project On GitHub
